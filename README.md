@@ -4,3 +4,10 @@ This repository contains introductory code for AI and machine learning. Primaril
 
 # Chapter 1 - Handwritten Digit Classifier with MNIST dataset
 In this chapter, we learn to download a dataset using tensorflow datasets, process data, and create, train, and evaluate a feed forward multilayer perceptron for the purpose of image classification. 
+
+Main points covered: 
+- Introduction to Tensorflow Datasets
+- Introduction to data processing (via keras layers)
+- Sequential model creation
+- Model training
+- Model evaluation
