@@ -20,6 +20,8 @@ Main points covered:
 - Introduction to Convolutional Neural Networks
 - Creating your own datasets
 - Utilizing Duck Duck Go API
+- Augmenting data to improve model performance
+- Uploading our own images to our model
 
 # Chapter 3 - Utilizing CNNs for Reinforcement Learning
 We've learned about training models, CNNs, and generating data. Now, we can combine everything to create a model that can play videogames through Reinforcement Learning. We'll be utilizing Deep Q Algorithms to create a program to play snake. 
