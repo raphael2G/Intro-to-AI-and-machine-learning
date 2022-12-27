@@ -31,7 +31,7 @@ tf.keras.utils.plot_model(model, 'Chapter_#1-Image_Classifier-MNIST/model.png')
 model.fit(train_dataset.batch(16), epochs=1)
 
 # Test the model
-for x, y in test_dataset.take(5):
+for x, y in test_dataset.take(1):
     output = model(tf.reshape(x, (1, 28, 28, 1)))
     print('Model Output: ', output)
     print('Label:', y)
