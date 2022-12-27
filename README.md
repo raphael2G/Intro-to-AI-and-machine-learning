@@ -11,3 +11,16 @@ Main points covered:
 - Sequential model creation
 - Model training
 - Model evaluation
+
+# Chapter 2 - Exploring Convolutional Neural Networks with Image Classification
+In this chapter, we look to explore Convolutional Neural Networks: what they are, how they work, and why they're 
+better than our previous image classification approaches. 
+
+Main points covered: 
+- Introduction to Convolutional Neural Networks
+- Creating your own datasets
+- Utilizing Duck Duck Go API
+
+# Chapter 3 - Utilizing CNNs for Reinforcement Learning
+We've learned about training models, CNNs, and generating data. Now, we can combine everything to create a model that can play videogames through Reinforcement Learning. We'll be utilizing Deep Q Algorithms to create a program to play snake. 
+
