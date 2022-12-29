@@ -27,4 +27,6 @@ We've learned about training models, CNNs, and generating data. Now, we can comb
 Main points covered: 
 - Reading and understanding research papers
 - Creating your own customized training loops
+- Creating DQN agents
+- creating custom loss functions
 
