@@ -24,3 +24,7 @@ Main points covered:
 # Chapter 3 - Utilizing CNNs for Reinforcement Learning
 We've learned about training models, CNNs, and generating data. Now, we can combine everything to create a model that can play videogames through Reinforcement Learning. We'll be utilizing Deep Q Algorithms to create a program to play snake. 
 
+Main points covered: 
+- Reading and understanding research papers
+- Creating your own customized training loops
+
