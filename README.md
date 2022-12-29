@@ -21,7 +21,9 @@ Main points covered:
 - Creating your own datasets
 - Utilizing Duck Duck Go API
 
-# Chapter 3 - Utilizing CNNs for Reinforcement Learning
+# Chapter 3 - 
+
+# Chapter 4 - Utilizing CNNs for Reinforcement Learning
 We've learned about training models, CNNs, and generating data. Now, we can combine everything to create a model that can play videogames through Reinforcement Learning. We'll be utilizing Deep Q Algorithms to create a program to play snake. 
 
 Main points covered: 
