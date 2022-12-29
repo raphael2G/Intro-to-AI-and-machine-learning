@@ -28,5 +28,5 @@ Main points covered:
 - Reading and understanding research papers
 - Creating your own customized training loops
 - Creating DQN agents
-- creating custom loss functions
+- Creating custom loss functions
 
