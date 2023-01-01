@@ -23,7 +23,14 @@ Main points covered:
 - Augmenting data to improve model performance
 - Uploading our own images to our model
 
-# Chapter 3 - 
+# Chapter 3 - Who survives the titanics?
+In this chapter, we learn to create a  model to predict survivors on the titanic. We'll load a premade dataset, learn to analyze trends, manipulate data, and train a multilayer perceptron neural network. 
+
+Main points covered: 
+- Loading CSV data
+- Visualizing trends using pandas
+- Creating and training a neural network 
+
 
 # Chapter 4 - Utilizing CNNs for Reinforcement Learning
 We've learned about training models, CNNs, and generating data. Now, we can combine everything to create a model that can play videogames through Reinforcement Learning. We'll be utilizing Deep Q Algorithms to create a program to play snake. 
