@@ -50,6 +50,15 @@ Main points covered:
 - Overfitting
 - Convergence
 
+# Chapter - That's neat! Introduction to genetic algorithm
+In this chapter, we'll experiment with a simple genetic algorithm to implement our first reinforcement learning models through Open AI's gym. 
+
+Main points covered:
+- Reinforcement Learning
+- NEAT algorithm
+- Markov decision process
+- Loss
+
 
 # Chapter   - Utilizing CNNs for Reinforcement Learning
 We've learned about training models, CNNs, and generating data. Now, we can combine everything to create a model that can play videogames through Reinforcement Learning. We'll be utilizing Deep Q Algorithms to create a program to play snake. 
