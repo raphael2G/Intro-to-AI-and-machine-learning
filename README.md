@@ -6,6 +6,8 @@ The purpose of this book is to take anyone interested in artificial intelligence
 1. Learn more complicated AI (and non AI) topics on their own
 2. Turn their own projects and ideas into reality
 
+I want anyone who reads this book and does the associated projects to finish with the confidence that they can learn anything, no matter how difficult the topic. I also want any reader to have the ability to create their own projects. This is a huge barrier for many people - liberating yourself from tutorials and premade projects.
+
 ### Time Line
 The written portion of the book will be completed by June 30th, 2023. All associated videos will be posted by July 31st, 2023. 
 
