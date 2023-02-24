@@ -1,11 +1,36 @@
 # Intro-to-AI-and-machine-learning
 This repository contains introductory code for AI and machine learning. Primarily written in python notebooks using Tensorflow and keras, these brief snippets can be utilized as a starting point for anyone looking to start creating their first AI project. Video lectures on each topic can be seen on my youtube channel [coming soon].
 
-# Time Line
-The goal deadline for this project will be June 30th, 2023. Updates to the github will be paused as I continue to right this book as people will utilize this as a resource to learn, and I don't want to confuse anyone along their journey while the project is under development. If you would like to help, let me know. 
+### What will you learn
+The purpose of this book is to take anyone interested in artificial intelligence from complete begginer to having the ability to...
+1. Learn more complicated AI (and non AI) topics on their own
+2. Turn their own projects and ideas into reality
+
+### Time Line
+The written portion of the book will be completed by June 30th, 2023. All associated videos will be posted by July 31st, 2023. 
+
+Updates to the github now have to go through finalization process as I continue to write this book. People will utilize this as a resource to learn, and the last thing I want to do is confuse anyone along their journey while materials are undergoing development. If you would like to help, let me know. 
+
+Chapters Available for Preview: 3
+
+Chapters Drafted: 6
+
+3/20/2023 - Refine chapters 1, 2, 3
+
+4/20/2023 - Refine chapters 4, 5, 6
+
+5/20/2023 - Refine chapters 7, 8, 9
+
+6/30/2023 - Finalize all chapters
+
+7/20/2023 - Film associated videos
+
+7/31/2023 - Finalize and post all videos
 
 
-# Chapter 1 - Handwritten Digit Classifier with MNIST dataset
+# Table of Contents
+
+## Chapter 1 - Handwritten Digit Classifier with MNIST dataset
 In this chapter, we learn to download a dataset using tensorflow datasets, process data, and create, train, and evaluate a feed forward multilayer perceptron for the purpose of image classification. 
 
 Main points covered: 
@@ -15,7 +40,7 @@ Main points covered:
 - Model training
 - Model evaluation
 
-# Chapter 2 - Exploring Convolutional Neural Networks with Image Classification
+## Chapter 2 - Exploring Convolutional Neural Networks with Image Classification
 In this chapter, we look to explore Convolutional Neural Networks: what they are, how they work, and why they're 
 better than our previous image classification approaches. 
 
@@ -26,7 +51,7 @@ Main points covered:
 - Augmenting data to improve model performance
 - Uploading our own images to our model
 
-# Chapter 3 - Who survives the titanic?
+## Chapter 3 - Who survives the titanic?
 In this chapter, we learn to create a  model to predict survivors on the titanic. We'll load a premade dataset, learn to analyze trends, manipulate data, and train a multilayer perceptron neural network. 
 
 Main points covered: 
