@@ -59,7 +59,7 @@ Main points covered:
 - Visualizing trends using pandas
 - Creating and training a neural network 
 
-# Chapter 4 - Another convolutional neural network...
+## Chapter 4 - Another convolutional neural network...
 In this chapter, we'll take our CNN but create our own custom training loop for it. Here, we'll learn about what really goes on when you train a model. 
 
 Main points covered:
@@ -68,7 +68,7 @@ Main points covered:
 - Back propogation
 - Optimizers
 
-# Chapter ?? - Optimizing our models
+## Chapter ?? - Optimizing our models
 In this chapter, we're taking on hyperparameters. Here, we'll cover differerent hyperparameters, there effects, and a basic way of optimizing these for model performance. 
 
 Main points covered: 
@@ -78,7 +78,7 @@ Main points covered:
 - Overfitting
 - Convergence
 
-# Chapter ?? - That's neat! Introduction to genetic algorithm
+## Chapter ?? - That's neat! Introduction to genetic algorithm
 In this chapter, we'll experiment with a simple genetic algorithm to implement our first reinforcement learning model to play google's dinosaur game (chrome://dino/). 
 
 Main points covered:
@@ -86,7 +86,7 @@ Main points covered:
 - NEAT algorithm
 - Loss
 
-# Chapter ?? - Welcome to the gym
+## Chapter ?? - Welcome to the gym
 In this chapter, we'll be playing around in Open AI's gym to land a lunar lander on the moon utilizing a simple reinforcement learning algorithm.
 
 Main points covered:
@@ -94,7 +94,7 @@ Main points covered:
 - Open AI gym
 - Markov decision process
 
-# Chapter ?? - Utilizing CNNs for Reinforcement Learning
+## Chapter ?? - Utilizing CNNs for Reinforcement Learning
 We've learned about training models, CNNs, and generating data. Now, we can combine everything to create a model that can play videogames through Reinforcement Learning. We'll be utilizing Deep Q Algorithms to create a program to play snake. 
 
 Main points covered: 
@@ -103,7 +103,7 @@ Main points covered:
 - Creating DQN agents
 - Creating custom loss functions
 
-# Chapter ?? - Off the grid
+## Chapter ?? - Off the grid
 If you've done everything, you should feel confident in your AI ability to create your own project ... or maybe you don't. Either way, if you've made these projects you will absolutely have the skill set to create your own project. It probably won't be amazing, or super cool ... but it'll be your own project. The more you practice, the better you'll get. Here, we'll discuss how to take the idea of a project and break it down into small, approachable pieces that can be put together to make your idea a reality. 
 
 Main points covered: 
