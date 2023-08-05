@@ -11,25 +11,11 @@ The purpose of this book is to take anyone interested in artificial intelligence
 
 
 ### Time Line
-The written portion of the book will be completed by June 30th, 2023. All associated videos will be posted by July 31st, 2023. 
-
 Updates to the github now have to go through finalization process as I continue to write this book. People will utilize this as a resource to learn, and the last thing I want to do is confuse anyone along their journey while materials are undergoing development. If you would like to help, let me know. 
 
 Chapters Available for Preview: 3
 
 Chapters Drafted: 6
-
-3/20/2023 - Refine chapters 1, 2, 3
-
-4/20/2023 - Refine chapters 4, 5, 6
-
-5/20/2023 - Refine chapters 7, 8, 9
-
-6/30/2023 - Finalize all chapters
-
-7/20/2023 - Film associated videos
-
-7/31/2023 - Finalize and post all videos
 
 
 # Table of Contents
